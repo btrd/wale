@@ -1,0 +1,2 @@
+defmodule Wale do
+end
